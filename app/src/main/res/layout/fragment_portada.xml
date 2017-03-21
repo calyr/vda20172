@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+              android:layout_width="match_parent"
+              android:layout_height="match_parent"
+              android:background="@color/colorPrimary"
+              android:orientation="vertical"
+              android:padding="0dp"
+              android:paddingLeft="0dp"
+              android:paddingTop="0dp"
+              android:paddingRight="0dp"
+              android:paddingBottom="0dp">
+    <!--<TextView
+        android:layout_width="fill_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginBottom="10dp"
+        android:textSize="12dp"
+        android:textColor="#454545"
+        android:gravity="center_horizontal"
+        android:layout_alignParentBottom="true"
+        android:text="calyr.software@gmail.com" /> -->
+
+    <ImageView
+        android:id="@+id/imgLogo"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_centerInParent="true"
+        android:layout_weight="10"
+        android:layout_marginLeft="0dp"
+        android:layout_marginTop="0dp"
+        android:layout_margin="0dp"
+        android:layout_marginRight="0dp"
+        android:nestedScrollingEnabled="false"
+        android:padding="0dp"
+        android:paddingLeft="0dp"
+        android:paddingTop="0dp"
+        android:paddingRight="0dp"
+        android:paddingBottom="0dp"
+        android:scaleType="fitXY"
+        android:src="@drawable/portada" />
+
+    <LinearLayout
+        android:orientation="horizontal"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:padding="2dp">
+
+        <Button
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_alignParentBottom="true"
+            android:text="Ingresar"
+            android:id="@+id/btnInicio" android:onClick="mostrarMenu"
+            android:paddingBottom="0dp"
+            android:paddingTop="0dp"
+            android:padding="5dp"
+            android:paddingLeft="0dp"
+            android:paddingRight="0dp"
+            android:background="#000000"
+            android:textColor="#ffffff"
+            android:layout_gravity="center"
+            android:textSize="25dp" />
+    </LinearLayout>
+
+</LinearLayout>

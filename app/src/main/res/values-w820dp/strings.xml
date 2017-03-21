@@ -1,0 +1,77 @@
+<resources>
+    <string name="app_name">Virgen del Amparo</string>
+    <string name="action_settings">Settings</string>
+    <string name="action_search">Search</string>
+    <string name="drawer_open">Open</string>
+    <string name="drawer_close">Close</string>
+    <string name="google_maps_key"></string>
+    <string name="nav_item_programafestivo">Programa Festivo</string>
+    <string name="nav_item_friends">Recorrido</string>
+    <string name="nav_item_fraternidadesfolkloricas">Fraternidades Folklóricas</string>
+    <string name="nav_item_cajerosautomaticos">Cajeros Automaticos</string>
+    <string name="nav_item_gastronomia">Plato Representativo</string>
+    <string name="nav_item_turismo">Turismo</string>
+    <string name="nav_item_telefonosdeemergencia">Teléfonos de Emergencias</string>
+    <string name="nav_item_ordenanzasyleyes">Ordenanzas y Leyes</string>
+    <string name="nav_item_mensajedelalcalde">Mensaje del Alcalde</string>
+    <string name="nav_item_redessociales">Redes Sociales</string>
+
+    <!-- navigation drawer item labels  -->
+    <string-array name="nav_drawer_labels">
+        <item>@string/nav_item_programafestivo</item>
+        <item>@string/nav_item_friends</item>
+        <item>@string/nav_item_fraternidadesfolkloricas</item>
+        <item>@string/nav_item_cajerosautomaticos</item>
+        <item>@string/nav_item_gastronomia</item>
+        <item>@string/nav_item_turismo</item>
+        <!--<item>@string/nav_item_telefonosdeemergencia</item>-->
+        <!--<item>@string/nav_item_ordenanzasyleyes</item>-->
+        <!--<item>@string/nav_item_mensajedelalcalde</item>-->
+        <!--<item>@string/nav_item_redessociales</item>-->
+    </string-array>
+
+
+    <string name="title_fraternidadesfolkloricas">Fraternidades Folklóricas</string>
+    <string name="title_recorrido">Recorrido</string>
+    <string name="title_programafestivo">Programa Festivo</string>
+    <string name="title_cajerosautomaticos">Cajeros Automaticos</string>
+    <string name="title_gastronomia">Plato Representativo</string>
+    <string name="title_turismo">Turismo</string>
+    <string name="title_telefonosdeemergencia">Teléfonos de Emergencias</string>
+    <string name="title_ordenanzasyleyes">Ordenanzas y Leyes</string>
+    <string name="title_mensajedelalcalde">Mensaje del Alcalde</string>
+    <string name="title_redessociales">Redes Sociales</string>
+
+    <string name="title_fie">Cajeros Banco Fie</string>
+    <string name="title_fassil">Cajeros Banco Fassil</string>
+    <string name="title_union">Cajeros Banco Union</string>
+    <string name="title_economico">Cajeros Banco Economico</string>
+    <string name="title_prodem">Cajeros Banco Prodem</string>
+    <string name="title_bisa">Cajeros Banco Bisa</string>
+    <string name="title_losandes">Cajeros Banco Los Andes</string>
+    <string name="title_crecer">Cajeros Crecer</string>
+    <string name="title_quillacollo">Cajeros Quillacollo</string>
+    <string name="title_fortaleza">Cajeros Banco Fortaleza</string>
+    <string name="title_piox">Cajeros Pio X</string>
+    <string name="title_ecofuturo">Cajeros Ecofuturo</string>
+    <string name="title_cacef">Cajeros Cacef</string>
+    <string name="title_emprender">Cajeros Emprender</string>
+    <string name="title_fubode">Cajeros Fubode</string>
+
+    <string name="title_sol">Cajeros Bancosol</string>
+
+
+    <string name="title_portada">Portada</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="title_activity_bancos">BancosActivity</string>
+
+    <string name="hello_world">Hello world!</string>
+    <string name="title_activity_maps">Map</string>
+    <string name="title_activity_recorrido">Map</string>
+    <string name="calyr_software_by_coursera">Calyr by Coursera 2017</string>
+    <string name="partida">Partida Entrada Folklorica</string>
+    <string name="title">Virgen del Amparo 2017</string>
+    <string name="llegada">Llegada Entrada Folklorica</string>
+</resources>
